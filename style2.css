@@ -1,0 +1,24 @@
+body
+{
+border: 2px solid red;
+background-color:#fff157;
+}
+#a,
+#b
+{
+border:2px solid red;
+}
+table
+{
+width:100%;
+border:2px solid red;
+}
+.y
+{
+height:400px;
+width:100%;
+}
+p
+{
+font-size:25px;
+}

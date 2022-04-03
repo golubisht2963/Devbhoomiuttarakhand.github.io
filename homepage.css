@@ -1,0 +1,41 @@
+body
+{
+background-image:url(11111.jpg);
+background-size:cover;
+width:100%;
+height:700px;
+}
+#aaaa #bbbb
+{
+position:absolute;
+top:5px;
+width:100%;
+color:#770000;
+text-shadow:5px 5px 5px #222222;
+}
+#aaaa #cccc
+{
+position:absolute;
+top:50px;
+width:250px;
+height:300px;
+color:red;
+}
+.gggg
+{
+font-size:25px;
+}
+a
+{
+color:#000033;
+}
+p
+{
+color:#000033;
+}
+h1
+{
+margin:0;
+font-size:50px;
+font-family:alzebra;
+}
